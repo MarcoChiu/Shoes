@@ -1,0 +1,182 @@
+body {
+    /* https://ithelp.ithome.com.tw/m/articles/10244794 */
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+.container {
+    margin-top: 0 auto;
+}
+
+
+h1 {
+    font-size: 40px;
+
+}
+
+h3 {
+    font-size: 28px;
+
+}
+
+h4 {
+    font-size: 24px;
+
+}
+
+h5 {
+    font-size: 20px;
+
+}
+
+.fs40 {
+    font-size: 40px;
+
+}
+
+.fs28 {
+    font-size: 28px;
+
+}
+
+.fs24 {
+    font-size: 24px;
+
+}
+
+.fs20 {
+    font-size: 20px;
+
+}
+
+.fs16 {
+    font-size: 16px;
+
+
+}
+
+.lh120 {
+    line-height: 120%;
+}
+
+.lh150 {
+    line-height: 150%;
+}
+
+.fwb {
+    font-weight: bold;
+}
+
+.cgreen {
+    color: #57A203;
+}
+
+.mb40 {
+    margin-bottom: 40px;
+}
+
+.mb20 {
+    margin-bottom: 20px;
+}
+
+.mb10 {
+    margin-bottom: 10px;
+}
+
+
+/* header  */
+.HeroSection {
+    height: 400px;
+    background-image: url(../images/heder.png);
+    background-position: center;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+
+}
+
+.PageTitle h1 {
+    padding-top: 151px;
+}
+
+/* BlockQuote */
+.BlockQuote {
+    margin: 0 auto;
+    width: 1000px;
+    background-color: #F5FEE7;
+    text-align: center;
+
+}
+
+.BlockQuoteTitle {
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+/* BrandIntro */
+.BrandIntro {
+    margin: 0 auto;
+    width: 1076px;
+    border-bottom: 1px solid gray;
+}
+
+.BrandIntroImage {
+    width: 1076px;
+}
+
+.BrandIntroTitle {
+    margin: 0 auto;
+    width: 856px;
+}
+
+/* History */
+.History {
+    margin: 0 auto;
+    width: 856px;
+}
+
+.HistoryList {
+    /* https://developer.mozilla.org/zh-CN/docs/Web/CSS/list-style */
+    /* https://developer.mozilla.org/zh-CN/docs/Web/CSS/text-indent */
+    list-style-type: disc;
+    list-style-position: inside;
+    text-indent: 10px;
+}
+
+
+/* BrandConcept */
+.BrandConcept {
+    margin: 0 auto;
+    width: 856px;
+}
+
+.BrabdSpsn {
+    border-left: 3px solid #DEE2E6;
+
+}
+
+/* BrandStory */
+.BrandStory {
+    margin: 0 auto;
+    width: 856px;
+}
+
+.BrandStoryList {
+    color: #57A203;
+
+}
+
+/* footer */
+footer {
+    height: 174px;
+    width: 100%;
+    background: #F8F9FA;
+
+}
+
+.copyright {
+    line-height: 40px;
+    color: #6C757D;
+    text-align: center;
+}
+
+/* footer */
